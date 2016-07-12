@@ -1,0 +1,5 @@
+ Zegar
+
+Odliczanie czasu i wyœwietlanie go za pomoc¹ diod (wyœwietlacz binarny: 4 diody przeznaczone s¹ na 12-godzinn¹ liczbê godzin i 6 diod na liczbê minut) oraz na wyjœciu serial monitor (godziny:minuty:sekundy).
+Rozwi¹zanie minimum: mo¿liwoœæ ustawienia godziny, minut oraz zrestartowania sekund.
+Przyk³adowe mo¿liwoœci rozbudowy: minutnik, stoper.
